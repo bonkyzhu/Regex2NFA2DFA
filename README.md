@@ -133,9 +133,4 @@
 
 ![屏幕快照 2019-09-25 上午7.33.19](http://bonky-picture.oss-cn-beijing.aliyuncs.com/pic/nkekc.png)
 
-## 总结
-
-通过这次作业，不仅加深了我对课内知识的理解，同时也锻炼了我的代码能力，让我受益匪浅。
-
-![屏幕快照 2019-09-25 上午7.34.57](http://bonky-picture.oss-cn-beijing.aliyuncs.com/pic/j1vfs.png)
 
