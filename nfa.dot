@@ -1,0 +1,17 @@
+digraph NFA{
+  rankdir=LR;
+  splines=false;
+  node [shape=circle];
+  edge [color=blue];
+	Start -> A [label=a];
+	A -> B [label=b];
+	B -> C [label=c];
+	C -> D [label=d];
+	D -> E [label=e];
+	E -> F [label=f];
+	F -> G [label=g];
+	G -> H [label=h];
+	H -> I [label=i];
+	I -> J [label=j];
+	J -> End [label=k];
+End [shape=doublecircle];}
